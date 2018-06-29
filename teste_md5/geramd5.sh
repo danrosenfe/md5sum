@@ -1,4 +1,5 @@
 #!/bin/bash
+#Código encontrado na resposta: https://askubuntu.com/a/327065 
 find "$PWD" -type d |
 sort |
 while read dir; 
