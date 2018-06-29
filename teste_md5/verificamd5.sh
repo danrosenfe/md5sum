@@ -1,5 +1,5 @@
 #!/bin/bash
-#Código encontrado na resposta: https://askubuntu.com/a/327065 
+#Código encontrado na resposta: https://askubuntu.com/a/32706C
 find "$PWD" -name @md5Sum.md5 |
 sort |
 while read file;
